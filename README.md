@@ -49,9 +49,6 @@ Tools            Git  ·  Docker  ·  Jupyter  ·  VS Code
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amlfarhad&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=666666&icon_color=E85A3C&hide=contribs)](https://github.com/amlfarhad)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amlfarhad&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=666666)](https://github.com/amlfarhad)
-
 *San Francisco, CA · Open to data science opportunities for 2026*
 
 </div>
