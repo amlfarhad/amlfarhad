@@ -28,6 +28,8 @@ Previously worked as a **Data Analyst Intern at Emirates Group** in Dubai, where
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**fairrec**](https://github.com/amlfarhad/fairrec) | Multi-objective recommendation engine with IPS debiasing, MMR diversity, and supplier fairness | Python, PyTorch, scikit-learn |
+| [**experiment-forge**](https://github.com/amlfarhad/experiment-forge) | Experimentation platform with CUPED, sequential testing, bandits, and peeking simulation | Python, SciPy, statsmodels |
 | [**StreakSocial**](https://github.com/amlfarhad/StreakSocial) | Community-driven goal tracking app with AI-powered motivation | TypeScript |
 | [**AI Rehab Assistant**](https://github.com/amlfarhad/ai-rehab-assistant) | NLP research tool that scrapes PubMed and analyzes findings with Claude | Python, Flask, Anthropic API |
 | [**Stock Prediction**](https://github.com/amlfarhad/stock-prediction) | Random Forest stock predictor with 25+ technical indicators and GridSearchCV | Python, scikit-learn |
