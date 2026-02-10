@@ -20,7 +20,7 @@ Previously worked as a **Data Analyst Intern at Emirates Group** in Dubai, where
 ### What I'm Working On
 
 - Building **StreakSocial** — a community-driven goal tracking app with AI integration
-- Developing LLM-powered analytical engines for workforce skill gap prediction at **PowerTechs**
+- Developing LLM-powered analytical engines for workforce skill gap prediction at **PowerTechs** (Practicum Project)
 
 ---
 
