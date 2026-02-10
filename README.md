@@ -49,6 +49,6 @@ Tools            Git  ·  Docker  ·  Jupyter  ·  VS Code
 
 <div align="center">
 
-*San Francisco, CA · Open to data science opportunities for 2026*
+*San Francisco, CA · Open to opportunities for 2026*
 
 </div>
