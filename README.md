@@ -19,8 +19,10 @@ Previously worked as a **Data Analyst Intern at Emirates Group** in Dubai, where
 
 ### What I'm Working On
 
-- Building **StreakSocial** — a community-driven goal tracking app with AI integration
-- Developing LLM-powered analytical engines for workforce skill gap prediction at **PowerTechs** (Practicum Project)
+- Building **[PowerTechs OS](https://github.com/amlfarhad/powertechs-os)** — full-stack workforce intelligence platform (React + FastAPI) with dynamic 2035 outlook and ETD task generation pipeline
+- Shipping **[fairrec](https://github.com/amlfarhad/fairrec)** — multi-objective recommendation engine with IPS debiasing, MMR diversity, and supplier fairness
+- Scaling **[experiment-forge](https://github.com/amlfarhad/experiment-forge)** — experimentation framework with CUPED, sequential testing, and bandit simulations
+- Developing **[StreakSocial](https://github.com/amlfarhad/StreakSocial)** — community-driven goal tracking app with AI-powered motivation
 
 ---
 
