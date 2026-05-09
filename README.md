@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Hey, I'm Amal Farhad
+# Amal Farhad
 
-**Data Scientist | MSBA Candidate at UC Davis | Machine Learning & NLP**
+**MS Business Analytics Candidate at UC Davis | Data Systems, Applied AI, and Product Analytics**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amlfarhad.github.io-E85A3C?style=flat-square&logo=google-chrome&logoColor=white)](https://amlfarhad.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amal--farhad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-farhad)
@@ -13,46 +12,37 @@
 
 ---
 
-I turn complex data into strategic business decisions. Currently pursuing my **MS in Business Analytics** at **UC Davis** (3.93 GPA), with a background in Computer Science from VIT.
+I build analytical systems that turn messy operational data into usable products: validated data pipelines, decision dashboards, experimentation tools, and applied AI workflows. I am currently pursuing an **MS in Business Analytics at UC Davis** with a **3.86 GPA**, after completing a **B.Tech in Computer Science and Engineering** at VIT.
 
-Previously worked as a **Data Analyst Intern at Emirates Group** in Dubai, where I migrated revenue accounting systems and improved data integrity by 15%.
+Previously, I worked as a **Data Analyst Intern at Emirates Group**, where I supported revenue accounting migration work, SQL validation, data quality checks, and stakeholder documentation across enterprise systems.
 
-### What I'm Working On
+## Selected Work
 
-- Building **[PowerTechs OS](https://github.com/amlfarhad/powertechs-os)** — full-stack workforce intelligence platform (React + FastAPI) with dynamic 2035 outlook and ETD task generation pipeline
-- Shipping **[fairrec](https://github.com/amlfarhad/fairrec)** — multi-objective recommendation engine with IPS debiasing, MMR diversity, and supplier fairness
-- Scaling **[experiment-forge](https://github.com/amlfarhad/experiment-forge)** — experimentation framework with CUPED, sequential testing, and bandit simulations
-- Developing **[StreakSocial](https://github.com/amlfarhad/StreakSocial)** — community-driven goal tracking app with AI-powered motivation
+| Project | Focus | Stack |
+|---------|-------|-------|
+| [**PowerTechs OS**](https://github.com/amlfarhad/powertechs-os) | Full-stack workforce intelligence platform with analysis workflows, evidence traceability, validation endpoints, and executive dashboards | TypeScript, React, FastAPI, Python, SQL |
+| [**Experiment Forge**](https://github.com/amlfarhad/experiment-forge) | Experimentation platform with CUPED variance reduction, sequential testing, multi-armed bandits, guardrail checks, and automated readouts | Python, SQL, DuckDB, SciPy, Pytest |
+| [**Customer 360 Warehouse**](https://github.com/amlfarhad/customer-360-warehouse) | Customer analytics warehouse integrating CRM, billing, product usage, support, and marketing sources with quality checks and dashboard outputs | Python, SQL, DuckDB |
+| [**Content AI Solution Lab**](https://github.com/amlfarhad/content-ai-solution-lab) | AI content workflow system for discovery mapping, mock platform APIs, agent classification, governance controls, and demo dashboards | Python, APIs, AI Agents, unittest |
+| [**AI Rehab Assistant**](https://github.com/amlfarhad/ai-rehab-assistant) | Research assistant for PubMed retrieval, evidence summarization, and LLM-powered analysis of rehabilitation literature | Python, Flask, Anthropic API, PubMed |
 
----
+## Technical Strengths
 
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**fairrec**](https://github.com/amlfarhad/fairrec) | Multi-objective recommendation engine with IPS debiasing, MMR diversity, and supplier fairness | Python, PyTorch, scikit-learn |
-| [**experiment-forge**](https://github.com/amlfarhad/experiment-forge) | Experimentation platform with CUPED, sequential testing, bandits, and peeking simulation | Python, SciPy, statsmodels |
-| [**StreakSocial**](https://github.com/amlfarhad/StreakSocial) | Community-driven goal tracking app with AI-powered motivation | TypeScript |
-| [**AI Rehab Assistant**](https://github.com/amlfarhad/ai-rehab-assistant) | NLP research tool that scrapes PubMed and analyzes findings with Claude | Python, Flask, Anthropic API |
-| [**Stock Prediction**](https://github.com/amlfarhad/stock-prediction) | Random Forest stock predictor with 25+ technical indicators and GridSearchCV | Python, scikit-learn |
-| [**Covid-Alert**](https://github.com/amlfarhad/covid-alert) | Real-time mask detection & social distancing monitoring system | Python, TensorFlow, OpenCV |
-
----
-
-### Tech Stack
-
-```
-Languages        Python  ·  SQL  ·  R  ·  C++  ·  Java  ·  TypeScript
-ML / AI          scikit-learn  ·  TensorFlow  ·  Keras  ·  NLP  ·  LLMs
-Data             Pandas  ·  NumPy  ·  Snowflake  ·  PostgreSQL
-Visualization    Tableau  ·  Power BI  ·  Matplotlib  ·  Seaborn
-Tools            Git  ·  Docker  ·  Jupyter  ·  VS Code
+```text
+Languages        Python  ·  SQL  ·  TypeScript  ·  R  ·  C++  ·  Java
+Data Systems     DuckDB  ·  SQLite  ·  Pandas  ·  NumPy  ·  ETL  ·  Data Quality
+ML / AI          scikit-learn  ·  PyTorch  ·  LLMs  ·  RAG  ·  Model Evaluation
+Applications     React  ·  FastAPI  ·  Flask  ·  Streamlit  ·  REST APIs
+Analytics        Experimentation  ·  Product Analytics  ·  Dashboards  ·  Reporting
+Tools            Git  ·  GitHub  ·  Pytest  ·  Jupyter  ·  Power BI  ·  Tableau
 ```
 
----
+## Current Direction
+
+I am focused on roles where analytics, software, and applied AI meet real business workflows: data science, analytics engineering, solutions engineering, product analytics, and AI evaluation.
 
 <div align="center">
 
-*San Francisco, CA · Open to opportunities for 2026*
+San Francisco, CA · Open to 2026 opportunities
 
 </div>
